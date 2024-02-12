@@ -12,7 +12,7 @@ import org.openqa.selenium.support.ui.Select;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
 
-public class Sele_task {
+public class Sele_tasks {
 public static void main(String[] args) {
 	
 		WebDriverManager.chromedriver().setup();
